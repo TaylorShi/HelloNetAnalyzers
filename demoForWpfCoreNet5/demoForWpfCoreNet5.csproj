@@ -5,13 +5,7 @@
     <TargetFramework>net5.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
-    <AnalysisMode>All</AnalysisMode>
-    <AnalysisModeSecurity>All</AnalysisModeSecurity>
-    <AnalysisLevel>preview</AnalysisLevel>
-    <AnalysisLevelSecurity>preview</AnalysisLevelSecurity>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
-    <EnforceCodeStyleInBuild>true</EnforceCodeStyleInBuild>
-    <CodeAnalysisTreatWarningsAsErrors>false</CodeAnalysisTreatWarningsAsErrors>
   </PropertyGroup>
 
 </Project>
