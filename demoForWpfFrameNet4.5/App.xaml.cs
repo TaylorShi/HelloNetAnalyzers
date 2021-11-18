@@ -6,16 +6,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace demoForWpfCoreNet5
+namespace demoForWpfFrameNet4._5
 {
     /// <summary>
-    /// Interaction logic for App.xaml
+    /// App.xaml 的交互逻辑
     /// </summary>
     public partial class App : Application
     {
-        int Add(int i1, int i2)
-        {
-            return i1 + i2;
-        }
     }
 }
