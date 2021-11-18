@@ -16,5 +16,10 @@ namespace demoForWinformsFrameNet2._0
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+        static int Add(int i1, int i2)
+        {
+            return i1 + i2;
+        }
     }
 }
